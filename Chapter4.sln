@@ -7,7 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WritingFunctions", "Writing
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Debugging", "Debugging\Debugging.csproj", "{E7A4455D-0260-4B5E-90E3-7C12A5718721}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dumping", "Dumping\Dumping.csproj", "{A9CD51EA-CC45-4CAE-8CEC-A3565DE2C115}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dumping", "Dumping\Dumping.csproj", "{A9CD51EA-CC45-4CAE-8CEC-A3565DE2C115}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Instrumenting", "Instrumenting\Instrumenting.csproj", "{724469BC-5811-4FC8-8B64-6891937A8A4A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8E78284B-55F1-4DA9-9BF2-196737B644B3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +31,10 @@ Global
 		{A9CD51EA-CC45-4CAE-8CEC-A3565DE2C115}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A9CD51EA-CC45-4CAE-8CEC-A3565DE2C115}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A9CD51EA-CC45-4CAE-8CEC-A3565DE2C115}.Release|Any CPU.Build.0 = Release|Any CPU
+		{724469BC-5811-4FC8-8B64-6891937A8A4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{724469BC-5811-4FC8-8B64-6891937A8A4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{724469BC-5811-4FC8-8B64-6891937A8A4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{724469BC-5811-4FC8-8B64-6891937A8A4A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

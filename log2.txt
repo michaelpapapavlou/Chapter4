@@ -1,0 +1,5 @@
+Trace says, I am watching!
+C:\Users\14724\Documents\C sharp 8 and net core training\cs8dotnetcore3 - coding workthroughs\michaelpapapavlou\Chapter4\Chapter4\Instrumenting
+Trace error
+Trace warning
+Trace information
